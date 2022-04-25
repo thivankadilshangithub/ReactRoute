@@ -1,0 +1,18 @@
+.about{
+    padding: 30px;
+    color: #52ac;
+    text-align: center;
+}
+
+.about:hover{
+    color: black;
+}
+
+.card1{
+    border: 0.1px solid rgb(14, 13, 13);
+    padding: 0px;
+}
+
+.card1:hover{
+   border: 00.1px solid rgb(234, 56, 56);
+}
